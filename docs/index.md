@@ -14,9 +14,9 @@ User Guides
   * [Getting Started](https://github.com/unicefuganda/uSurvey/blob/uSurvey/docs/index.md#what-to-do-next)
 
 * User Manual
-  * uSurvey User Manual
-  * Login
-  * Map Page
+  * [uSurvey User Manual](https://github.com/unicefuganda/uSurvey/blob/uSurvey/docs/user_manual.md#usurvey-user-manual) 
+  * [Login](https://github.com/unicefuganda/uSurvey/blob/uSurvey/docs/user_manual.md#login) 
+  * [Map Page](https://github.com/unicefuganda/uSurvey/blob/uSurvey/docs/user_manual.md#map-page) 
   * Interviewer Page
   * Managing Enumeration Area
   * Question Module
