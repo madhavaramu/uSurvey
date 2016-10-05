@@ -9,9 +9,9 @@ Source code for this project is available on github [here](https://github.com/un
 User Guides
 -----------
 * Home
-  * ![Overview](https://github.com/unicefuganda/uSurvey/blob/uSurvey/docs/index.md)
-  * ![Features](https://github.com/unicefuganda/uSurvey/blob/uSurvey/docs/index.md#features)
-  * ![Getting Started](https://github.com/unicefuganda/uSurvey/blob/uSurvey/docs/index.md#what-to-do-next)
+  * [Overview](https://github.com/unicefuganda/uSurvey/blob/uSurvey/docs/index.md)
+  * [Features](https://github.com/unicefuganda/uSurvey/blob/uSurvey/docs/index.md#features)
+  * [Getting Started](https://github.com/unicefuganda/uSurvey/blob/uSurvey/docs/index.md#what-to-do-next)
 
 * User Manual
   * uSurvey User Manual
