@@ -1,35 +1,44 @@
-Overview
---------
-
+Welcome to uSurvey’s documentation!
+========
 uSurvey is an innovative data collection tool designed to provide statistically representative real time estimates of a given indicator. It runs on USSD (Unstructured Supplementary Service Data) interactive secured channel and on ODK (Open Data Kit), for off-line data collection in locations with intermittent mobile network connections.
 
 The system has been designed to collect a wide range of data for the structured survey; to generate and produce descriptive statistics and graphical representation of the collected information whenever desired, as well as during the process of data collection.
 
 Source code for this project is available on github [here](https://github.com/unicefuganda/uSurvey/ "github repo").
 
-Features
---------
+User Guides
+-----------
+* Home
+  * Overview
+  * Features
+  * Getting Started
 
-* **Admin Portal** to enable the management of uSurvey features, including:
-      - User creation & access level definition.
-      - Survey questions and question logic management
-      - Interview channel assignment for interviewers
-      - Enumeration area oriented survey participation
-      - Definition of report indicators 
-      - Map based reporting of captured data
-      
-* **Online participation** via USSD channel
+* User Manual
+  * uSurvey User Manual
+  * Login
+  * Map Page
+  * Interviewer Page
+  * Managing Enumeration Area
+  * Question Module
+  * House Member Group
+  * Question Library
+  * Survey Management
+  * Enabling Batch For Data Collection
+  * Download Data
+  * Batch Data Collecting Interviewers
+  * Analysis
+  * Survey Completion Statistics
+  * Managing Users
 
-* **Offline participation** via ODK collect
+* Offline Data Collection
+* USSD Integration
 
-* **Dynamic xform generation** from defined survey questions logic from the administrative portal
+* Set up Guide
+  * Prerequisites
+  * Installation Instructions
+  * Before Using The System
+  * Starting Up
 
-* **Support** for simple conditional question flow
+* Deployment Guide
+* Tests
 
-
-Getting Started
-----------------
-
-* Instructions on how to get uSurvey up and running can be found [here](./installation.md "Set up instructions")
-
-* Not a developer? [Here](./user_manual.md "User Manual") is the User Manual
