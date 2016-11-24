@@ -21,9 +21,9 @@ The above Groups page is used to manage Groups, i.e. to Create a New Group, Edit
  
  ![Manage Variables](https://github.com/madhavaramu/uSurvey/blob/uSurvey/screenshots/addvariable.png)
  
- ###Add Variables:
+###Add Variables:
  
- click on 'Add Variables'button, to navigare below show form. Where one can create new variable by assigning question. Provide 'variable Name' and Question in 'Text' feild and select 'Answer' type.  
+ click on 'Add Variables' button, to navigare below show form. Where one can create new variable by assigning question. Provide 'variable Name' and Question in 'Text' feilds and select 'Answer' type.  
  
  ![Add Variables](https://github.com/madhavaramu/uSurvey/blob/uSurvey/screenshots/Add_Variable.png)
  
