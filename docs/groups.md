@@ -9,7 +9,7 @@ Each group contains set of Variables, every Question is assigned to an identifie
 
 ###Creating Groups:
 
-Navigate to Survey <b>Survey Administration</b> >> <b>Groups</b>
+Navigate to <b>Survey Administration</b> >> <b>Groups</b>
 
  ![Create Groups](https://github.com/madhavaramu/uSurvey/blob/uSurvey/screenshots/Add_Groups.png)
  
@@ -19,7 +19,13 @@ The above Groups page is used to manage Groups, i.e. to Create a New Group, Edit
 
  click on ‘Manage Variables’ button to view list of existing Variables and options to Add, Edit and Delete Variables
  
- ![Add Variables](https://github.com/madhavaramu/uSurvey/blob/uSurvey/screenshots/addvariable.png)
+ ![Manage Variables](https://github.com/madhavaramu/uSurvey/blob/uSurvey/screenshots/addvariable.png)
+ 
+ ###Add Variables:
+ 
+ click on 'Add Variables'button, to navigare below show form. Where one can create new variable by assigning question. Provide 'variable Name' and Question in 'Text' feild and select 'Answer' type.  
+ 
+ ![Add Variables](https://github.com/madhavaramu/uSurvey/blob/uSurvey/screenshots/Add_Variable.png)
  
  
 ###Edit Group:
