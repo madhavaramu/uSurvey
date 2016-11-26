@@ -1,3 +1,54 @@
+##Explore uSurvey
+
+###Roles in uSurvey: 
+
+1.	Admin: Creates uSurvey Users and assigns them Roles
+2.	Data Researcher: Creates and defines Modules, Groups, Listing, Survey and Questions. Also defines interviewers and assigns them to an Enumeration area to conduct survey 
+3.	Interviewer: Conducts the actual survey on the field in designated enumeration area
+ 
+
+###Module: 
+Is a high level classification of surveys, based upon subject, surveys are classified.
+Ex: Household survey, School survey, etc
+
+<b>Purpose</b>: Identity of a Survey.
+
+<b>Precondition</b>: No dependency, can be created independently.
+
+
+###Groups: 
+It is the categorization of people/ respondents with in a Survey.
+Ex: Men, Women, Boys with age less than 18 years, etc
+
+<b>Purpose</b>: To differentiate the people/ respondents , to apply logic and to set Questions.
+
+<b>Precondition</b>: No dependency, can be created independently.
+
+ 
+###Listing:  
+It is the set of questions, each question is assigned to variable and these listings can be configurable/ reusable for any of the surveys.
+
+<b>Purpose</b>: Reusability, looping of set Questions.
+
+<b>Precondition</b>: No dependency, can be created independently.
+
+###Create a Survey: 
+A new survey can be created and defined here, one has to provide Name, Description, survey type (Sampled or Census) and sample size of the survey and options like  preferred listing, Groups are selected.
+
+<b>Purpose</b>: to conduct a survey.
+
+<b>Precondition</b>: dependency on Groups, Listing.
+
+
+###New Interviewer: 
+Interviewer registration is done, Token Name and Id are given and assigned to a Module and enumeration area to conduct survey.
+
+<b>Purpose</b>: to conduct a survey.
+
+<b>Precondition</b>:  dependency on Survey, enumeration area.
+
+
+
 ###Groups:
 
 Grouping is available from main menu under <b>Survey Administration</b> >> <b>Groups</b>
