@@ -30,8 +30,8 @@ Ex: Adding Questions in ‘Public School’ Listing (Looping and Non-looping que
 5.	Does 1st Child going to School? - Answer type is multiple type with Options Yes or No 
 6.	Which Class is 1st Child studying? - <b>End Loop</b>
 
-From the above listing questions S. No. 1 and 2 are called as Non-looping questions
-and questions S. No. 3 to 6 are Looping questions and also the concept of Start and End Loop arises here, which is based up on answer from Questions S. No. 2, therefore loop repetitions is done based on this numeric number.
+From the above listing questions S. No. 1 and 2 are known as 'Non-looping' questions
+and questions S. No. 3 to 6 are 'Looping' questions and also the concept of 'Start' and 'End' Loop arises here, which is based up on answer from Questions S. No. 2, therefore loop repetitions is done based on this numeric number.
 
 ###Groups: 
 
