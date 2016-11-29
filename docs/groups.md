@@ -6,7 +6,7 @@
 2.	Data Researcher: Creates and defines Modules, Groups, Listing, Survey and Questions. Also defines interviewers and assigns them to an Enumeration area to conduct survey 
 3.	Interviewer: Conducts the actual survey on the field in designated enumeration area
 
-Let us explore a sample survey:
+Let us explore a sample Survey:
 
 Survey has to be simplified to the Interviewer in identifying the household respondents, one who is eligible for this particular survey, based up on these Listing Questions and Grouping.
 
@@ -21,14 +21,14 @@ Ex: Household survey, School survey, etc
 ###Listing: 
 Let us create a 'Listing' called ‘Public School’, once Listing is created then need to Add Questions to the Listing, here the questions are differentiated into two types Looping and non-looping questions.
 
-Ex: Adding Questions in ‘Public School’ Listing (Looping and non-looping)
+Ex: Adding Questions in ‘Public School’ Listing (Looping and Non-looping)
 
 1.	Do you have children? – Answer type is multiple type with Options Yes or No 
 2.	How many children do you have? - Answer type is numeric
-3.	What is the Age of 1st Child? - Answer type is numeric - Start Loop 
+3.	What is the Age of 1st Child? - Answer type is numeric - <b>Start Loop</b> 
 4.	Gender of 1st Child? - Answer type is multiple type with Options Male or Female 
 5.	Does 1st Child going to School? - Answer type is multiple type with Options Yes or No 
-6.	Which Class is 1st Child studying? - End Loop
+6.	Which Class is 1st Child studying? - <b>End Loop</b>
 
 From the above listing questions S. No. 1 and 2 are called as Non-looping questions
 and questions S. No. 3 to 6 are Looping questions and also the concept of Start and End Loop arises here, which is based up on answer from Questions S. No. 2, therefore loop repetitions is done based on this numeric number.
@@ -40,7 +40,7 @@ Each group contains set of Variables, every Question is assigned to an identifie
 
 Ex: Men, Women, Boys with age less than 18 years, etc
 
-<b>Purpose</b>: To differentiate the people/ respondents , to apply logic and to set Questions.
+<b>Purpose</b>: To differentiate the people/ respondents, to apply logic and to set Questions.
 
 <b>Precondition</b>: No dependency, can be created independently.
 
@@ -51,12 +51,51 @@ Let us create few Groups related to current Survey,
 3.	Single member earning family
 
 ###Create a sample Survey:
-Let us create a sample Survey known as 'The Educational Survey' based upon above Groups and Listing, 
+
+Creating Survey means, one has to provide Name, Description, survey type (Sampled or Census) and sample size of the survey and options like ‘Preferred Listing’ or ‘Listing Form’ and Groups are selected.
 
 Preferred Listing: Is an option to choose, already conducted existing survey Listings in this New survey, which will integrate total survey Listing questions along with the data/results.
 
 Listing Form: This will enable only if in the field ‘Preferred Listing’, option “None, Create New” is selected, and contains list of all Newly created Listings, which doesn’t participated in any survey.
 
+Let us create a sample Survey known as 'The Educational Survey' related above Groups and Listing, i.e. as follows:
+
+Name: The Educational Survey
+Description: A Survey on Educational system.
+Survey Type:  Sampled
+Sample size: 5
+Preferred Listing: None
+Listing Form: Public School
+Select Groups: "Single Moms, Single Fathers,	Single member earning family"
+
+###Batches: 
+Batches are set of Questions categorized for Survey convenience, let us create few Batches for our current Survey convenient. 
+Once the Survey is created, one has to create ‘Batches’ and ‘Add Questions’ to each Batch as follows:
+  
+I. Batch Name: General</br>
+   Questions in Batch: General</br>
+   
+1.	What is your Name?
+2.	Are you the Head of the House?
+3.	What is you Occupation?
+4.	What is your Income?
+
+II. Batch Name: Property</br>
+   Questions in Batch: Property</br>
+   
+1.	Is this your own House?
+2.	Do you have Agricultural Land?
+3.	Do you have House other this?
+4.	How many Houses you have?
+
+Now, Survey: ‘The Educational Survey’ with Listing: ‘Public School’ and Groups: "Single Moms, Single Fathers, Single member earning family" and Batches: 'General' and 'Property' is created and ready.
+
+Interviewer conducts the survey in the designated enumeration area, suppose an Interviewer is assigned to a survey know as ‘The Educational' Survey.
+
+
+
+
+ 
  
 ###Listing:  
 It is the set of questions, each question is assigned to variable and these listings can be configurable/ reusable for any of the surveys.
