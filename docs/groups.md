@@ -18,7 +18,8 @@ Ex: Household survey, School survey, etc
 
 <b>Precondition</b>: No dependency, can be created independently.
 
-###Listing: Let us create a 'Listing' called ‘Public School’, once Listing is created then need to Add Questions to the Listing, here the questions are differentiated into two types Looping and non-looping questions.
+###Listing: 
+Let us create a 'Listing' called ‘Public School’, once Listing is created then need to Add Questions to the Listing, here the questions are differentiated into two types Looping and non-looping questions.
 
 Ex: Adding Questions in ‘Public School’ Listing (Looping and non-looping)
 
@@ -49,6 +50,13 @@ Let us create few Groups related to current Survey,
 2.	Single Fathers
 3.	Single member earning family
 
+###Create a sample Survey:
+Let us create a sample Survey known as 'The Educational Survey' based upon above Groups and Listing, 
+
+Preferred Listing: Is an option to choose, already conducted existing survey Listings in this New survey, which will integrate total survey Listing questions along with the data/results.
+
+Listing Form: This will enable only if in the field ‘Preferred Listing’, option “None, Create New” is selected, and contains list of all Newly created Listings, which doesn’t participated in any survey.
+
  
 ###Listing:  
 It is the set of questions, each question is assigned to variable and these listings can be configurable/ reusable for any of the surveys.
@@ -56,8 +64,6 @@ It is the set of questions, each question is assigned to variable and these list
 <b>Purpose</b>: Reusability, looping of set Questions.
 
 <b>Precondition</b>: No dependency, can be created independently.
-
-
 
 Preferred Listing: Is an option to choose, already conducted existing survey Listings in this New survey, which will integrate total survey Listing questions along with the data/results.
 
