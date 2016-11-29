@@ -19,9 +19,9 @@ Ex: Household survey, School survey, etc
 <b>Precondition</b>: No dependency, can be created independently.
 
 ###Listing: 
-Let us create a 'Listing' called ‘Public School’, once Listing is created then need to Add Questions to the Listing, here the questions are differentiated into two types Looping and non-looping questions.
+Let us create a 'Listing' called ‘Public School’, once Listing is created then need to 'Add Questions' to the Listing, here the questions are differentiated into two types Looping and Non-looping questions.
 
-Ex: Adding Questions in ‘Public School’ Listing (Looping and Non-looping)
+Ex: Adding Questions in ‘Public School’ Listing (Looping and Non-looping questions)
 
 1.	Do you have children? – Answer type is multiple type with Options Yes or No 
 2.	How many children do you have? - Answer type is numeric
@@ -52,7 +52,7 @@ Let us create few Groups related to current Survey,
 
 ###Create a sample Survey:
 
-Creating Survey means, one has to provide Name, Description, survey type (Sampled or Census) and sample size of the survey and options like ‘Preferred Listing’ or ‘Listing Form’ and Groups are selected.
+Creating Survey means, one has to provide Survey Name, Description, survey type (Sampled or Census) and sample size of the survey and options like ‘Preferred Listing’ or ‘Listing Form’ and Groups are selected.
 
 Preferred Listing: Is an option to choose, already conducted existing survey Listings in this New survey, which will integrate total survey Listing questions along with the data/results.
 
