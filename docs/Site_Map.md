@@ -1,4 +1,10 @@
 
+###Explore uSurvey process flow:
+
+![uSurvey Flow](https://github.com/madhavaramu/uSurvey/blob/uSurvey/screenshots/uSurvey_flow.png)
+
+
+
 ###uSurvey Sitemap:
 -----------
 *  **uSurvey Home** 
