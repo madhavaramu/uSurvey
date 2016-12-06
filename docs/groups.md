@@ -162,12 +162,12 @@ The above Groups page is used to manage Groups, i.e. to Create a New Group, Edit
  
  click on 'Add Variables' button, to navigare below show form. Where one can create new variable by assigning question. Provide 'variable Name' and Question in 'Text' feilds and select 'Answer' type.  
  
- ![Add Variables](https://github.com/madhavaramu/uSurvey/blob/uSurvey/screenshots/Add_Variable.png)
+ ![Add Variables](../screenshots/Add_Variable.png)
  
  
 ###Edit Group:
  
  To Edit existing Group, every corresponding Group name has Actions column with Action items ‘Edit’ and ‘Delete’, select Edit to modify the Group.
  
- ![Edit Groups](https://github.com/madhavaramu/uSurvey/blob/uSurvey/screenshots/Edit_group.png)
+ ![Edit Groups](../screenshots/Edit_group.png)
 
