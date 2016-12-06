@@ -6,7 +6,7 @@
 
 ###uSurvey Sitemap:
 
-![uSurvey Menu](https://github.com/madhavaramu/uSurvey/blob/uSurvey/screenshots/uSurvey_LOC.png)
+![uSurvey Menu](../screenshots/uSurvey_LOC.png)
 
 
 
