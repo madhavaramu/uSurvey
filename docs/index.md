@@ -18,7 +18,7 @@ User Guides
   * [uSurvey User Manual](./user_manual.md#usurvey-user-manual) 
   * [Login](./user_manual.md#login) 
   * [Map Page](./user_manual.md#map-page) 
-  * [Interviewer Page](https://github.com/unicefuganda/uSurvey/blob/uSurvey/docs/user_manual.md#interviewer-page)
+  * [Interviewer Page](./user_manual.md#interviewer-page)
   * [Managing Enumeration Area](https://github.com/unicefuganda/uSurvey/blob/uSurvey/docs/user_manual.md#managing-enumeration-area)
   * [Question Module](https://github.com/unicefuganda/uSurvey/blob/uSurvey/docs/user_manual.md#question-module)
   * [House Member Group](https://github.com/unicefuganda/uSurvey/blob/uSurvey/docs/user_manual.md#house-member-group)
