@@ -1,7 +1,7 @@
 
 ###Explore uSurvey process flow:
 
-![uSurvey Flow](./screenshots/uSurvey_flow.png)
+![uSurvey Flow](../screenshots/uSurvey_flow.png)
 
 
 ###uSurvey Sitemap:
