@@ -142,13 +142,13 @@ To Add a Variable, click on ‘Manage Variables’ button to view list of existi
 
 To Edit existing Group, every corresponding Group name has Actions column with Action items ‘Edit’ and ‘Delete’, select Edit to modify the Group.
    
- ![uSurvey map page](https://github.com/madhavaramu/uSurvey/blob/uSurvey/screenshots/Map_groupZ_selected.png)
+ ![uSurvey map page](../screenshots/Map_groupZ_selected.png)
 
 ###Creating Groups:
 
 Navigate to <b>Survey Administration</b> >> <b>Groups</b>
 
- ![Create Groups](https://github.com/madhavaramu/uSurvey/blob/uSurvey/screenshots/Add_Groups.png)
+ ![Create Groups](../screenshots/Add_Groups.png)
  
 The above Groups page is used to manage Groups, i.e. to Create a New Group, Edit existing Group, Delete Groups and Manage Variables.
 
@@ -156,7 +156,7 @@ The above Groups page is used to manage Groups, i.e. to Create a New Group, Edit
 
  click on ‘Manage Variables’ button to view list of existing Variables and options to Add, Edit and Delete Variables
  
- ![Manage Variables](https://github.com/madhavaramu/uSurvey/blob/uSurvey/screenshots/addvariable.png)
+ ![Manage Variables](../screenshots/addvariable.png)
  
 ###Add Variables:
  
