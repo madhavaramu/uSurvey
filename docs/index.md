@@ -9,14 +9,14 @@ Source code for this project is available on github [here](https://github.com/un
 User Guides
 -----------
 *  **Introduction** 
-  * [Overview](https://github.com/unicefuganda/uSurvey/blob/uSurvey/docs/index.md)
-  * [Features](https://github.com/unicefuganda/uSurvey/blob/uSurvey/docs/index.md#features)
-  * [Getting Started](https://github.com/unicefuganda/uSurvey/blob/uSurvey/docs/index.md#what-to-do-next)
+  * [Overview](./index.md)
+  * [Features](./index.md#features)
+  * [Getting Started](./index.md#what-to-do-next)
 
 * **User Manual**
-  * [uSurvey User Manual](https://github.com/unicefuganda/uSurvey/blob/uSurvey/docs/user_manual.md#usurvey-user-manual) 
-  * [Login](https://github.com/unicefuganda/uSurvey/blob/uSurvey/docs/user_manual.md#login) 
-  * [Map Page](https://github.com/unicefuganda/uSurvey/blob/uSurvey/docs/user_manual.md#map-page) 
+  * [uSurvey User Manual](./user_manual.md#usurvey-user-manual) 
+  * [Login](./user_manual.md#login) 
+  * [Map Page](./user_manual.md#map-page) 
   * [Interviewer Page](https://github.com/unicefuganda/uSurvey/blob/uSurvey/docs/user_manual.md#interviewer-page)
   * [Managing Enumeration Area](https://github.com/unicefuganda/uSurvey/blob/uSurvey/docs/user_manual.md#managing-enumeration-area)
   * [Question Module](https://github.com/unicefuganda/uSurvey/blob/uSurvey/docs/user_manual.md#question-module)
