@@ -97,7 +97,8 @@ Interviewer conducts the survey in the designated enumeration area, suppose an I
 
  
  
-###Listing:  
+###Listing:
+The Listing be carried out by field staff other than interviewers, as a separate field operation conducted before the survey starts.
 It is the set of questions, each question is assigned to variable and these listings can be configurable/ reusable for any of the surveys.
 
 <b>Purpose</b>: Reusability, looping of set Questions.
